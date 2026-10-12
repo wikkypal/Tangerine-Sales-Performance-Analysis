@@ -2,7 +2,7 @@
 
 A structured Power BI sales performance report analysing Tangerine Inc.'s 2024 sales across salespeople, regions, products, customers, and payment methods. Built as part of my data analytics training with Vephla.
 
-![Report preview](tangerine_sales_performance_dashboard.png)
+![Report preview](tangerine_sales_performance_dashboard.jpg)
 
 ## Objectives
 
